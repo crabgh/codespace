@@ -1,6 +1,5 @@
 #include <iostream>
 #include "AVLMap.hpp"
-#include "ARTE.hpp"
 
 int main() {
     AVLMap<int, std::string> bt(1, "A");
